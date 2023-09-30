@@ -1,0 +1,76 @@
+﻿<Window x:Class="styl.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:styl"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid ShowGridLines="True">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="225"></ColumnDefinition>
+            <ColumnDefinition Width="*" ></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        
+
+        <StackPanel Grid.Column="0" Background="#7F9A74BF">
+            <Button Margin="0,50,0,0" Name="Menu">
+                <StackPanel Orientation="Horizontal" >
+                    <Image Source="/Resources/1.jpg"></Image>
+                    <TextBlock VerticalAlignment="Center" Margin="20,0,0,0">Dashboard</TextBlock>
+                </StackPanel>
+            </Button>
+            <Button >
+                <StackPanel Orientation="Horizontal" >
+                    <Image Source="/Resources/2.jpg"></Image>
+                    <TextBlock VerticalAlignment="Center" Margin="20,0,0,0">Lessons</TextBlock>
+                </StackPanel>
+            </Button>
+            <Button >
+                <StackPanel Orientation="Horizontal" >
+                    <Image Source="/Resources/3.jpg"></Image>
+                    <TextBlock VerticalAlignment="Center" Margin="20,0,0,0">Finance</TextBlock>
+                </StackPanel>
+            </Button>
+            <Button >
+                <StackPanel Orientation="Horizontal" >
+                    <Image Source="/Resources/4.jpg" Width="27"></Image>
+                    <TextBlock VerticalAlignment="Center" Margin="20,0,0,0">Students</TextBlock>
+                </StackPanel>
+            </Button>
+            <Button>
+                <StackPanel Orientation="Horizontal" >
+                    <Image Source="/Resources/5.jpg"></Image>
+                    <TextBlock VerticalAlignment="Center" Margin="20,0,0,0">Messages</TextBlock>
+                </StackPanel>
+            </Button>
+            <Button>
+                <StackPanel Orientation="Horizontal" >
+                    <Image Source="/Resources/6.jpg"></Image>
+                    <TextBlock VerticalAlignment="Center" Margin="20,0,0,0">Reviews</TextBlock>
+                </StackPanel>
+            </Button>
+        </StackPanel>
+
+        <Button VerticalAlignment="Bottom">
+            <StackPanel Orientation="Horizontal" >
+                <!--<Image Source="/Resources/7.jpg"></Image>-->
+                <TextBlock VerticalAlignment="Center" Margin="20,0,0,0">Settings</TextBlock>
+            </StackPanel>
+        </Button>
+
+        <Grid Grid.Column="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="130"></RowDefinition>
+                <RowDefinition Height="auto"></RowDefinition>
+                <RowDefinition Height="auto"></RowDefinition>
+                <RowDefinition Height="Auto"></RowDefinition>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="auto"></ColumnDefinition>
+                <ColumnDefinition Width="Auto"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+        </Grid>
+
+    </Grid>
+</Window>

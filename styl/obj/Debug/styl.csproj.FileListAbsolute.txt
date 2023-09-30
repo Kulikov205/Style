@@ -1,0 +1,15 @@
+C:\Users\Администратор\Desktop\style\styl\bin\Debug\styl.exe.config
+C:\Users\Администратор\Desktop\style\styl\bin\Debug\styl.exe
+C:\Users\Администратор\Desktop\style\styl\bin\Debug\styl.pdb
+C:\Users\Администратор\Desktop\style\styl\obj\Debug\styl.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\style\styl\obj\Debug\MainWindow.g.cs
+C:\Users\Администратор\Desktop\style\styl\obj\Debug\App.g.cs
+C:\Users\Администратор\Desktop\style\styl\obj\Debug\styl_MarkupCompile.cache
+C:\Users\Администратор\Desktop\style\styl\obj\Debug\styl_MarkupCompile.lref
+C:\Users\Администратор\Desktop\style\styl\obj\Debug\MainWindow.baml
+C:\Users\Администратор\Desktop\style\styl\obj\Debug\styl.g.resources
+C:\Users\Администратор\Desktop\style\styl\obj\Debug\styl.Properties.Resources.resources
+C:\Users\Администратор\Desktop\style\styl\obj\Debug\styl.csproj.GenerateResource.cache
+C:\Users\Администратор\Desktop\style\styl\obj\Debug\styl.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\style\styl\obj\Debug\styl.exe
+C:\Users\Администратор\Desktop\style\styl\obj\Debug\styl.pdb

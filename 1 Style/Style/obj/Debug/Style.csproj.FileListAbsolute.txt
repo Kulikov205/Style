@@ -1,0 +1,32 @@
+D:\worldskills\варианты заданий\trueskills\Style\Style\bin\Debug\Style.exe.config
+D:\worldskills\варианты заданий\trueskills\Style\Style\bin\Debug\Style.exe
+D:\worldskills\варианты заданий\trueskills\Style\Style\bin\Debug\Style.pdb
+D:\worldskills\варианты заданий\trueskills\Style\Style\obj\Debug\Style.csproj.AssemblyReference.cache
+D:\worldskills\варианты заданий\trueskills\Style\Style\obj\Debug\MainWindow.g.cs
+D:\worldskills\варианты заданий\trueskills\Style\Style\obj\Debug\App.g.cs
+D:\worldskills\варианты заданий\trueskills\Style\Style\obj\Debug\Style_MarkupCompile.cache
+D:\worldskills\варианты заданий\trueskills\Style\Style\obj\Debug\Style_MarkupCompile.lref
+D:\worldskills\варианты заданий\trueskills\Style\Style\obj\Debug\MainWindow.baml
+D:\worldskills\варианты заданий\trueskills\Style\Style\obj\Debug\Style.g.resources
+D:\worldskills\варианты заданий\trueskills\Style\Style\obj\Debug\Style.Properties.Resources.resources
+D:\worldskills\варианты заданий\trueskills\Style\Style\obj\Debug\Style.csproj.GenerateResource.cache
+D:\worldskills\варианты заданий\trueskills\Style\Style\obj\Debug\Style.csproj.CoreCompileInputs.cache
+D:\worldskills\варианты заданий\trueskills\Style\Style\obj\Debug\Style.exe
+D:\worldskills\варианты заданий\trueskills\Style\Style\obj\Debug\Style.pdb
+D:\worldskills\варианты заданий\trueskills\Style\Style\obj\Debug\App.baml
+D:\DemoEkzamen\5 trueskills\1 Style\Style\bin\Debug\Style.exe.config
+D:\DemoEkzamen\5 trueskills\1 Style\Style\bin\Debug\Style.exe
+D:\DemoEkzamen\5 trueskills\1 Style\Style\bin\Debug\Style.pdb
+D:\DemoEkzamen\5 trueskills\1 Style\Style\obj\Debug\Style.csproj.AssemblyReference.cache
+D:\DemoEkzamen\5 trueskills\1 Style\Style\obj\Debug\MainWindow.g.cs
+D:\DemoEkzamen\5 trueskills\1 Style\Style\obj\Debug\App.g.cs
+D:\DemoEkzamen\5 trueskills\1 Style\Style\obj\Debug\Style_MarkupCompile.cache
+D:\DemoEkzamen\5 trueskills\1 Style\Style\obj\Debug\Style_MarkupCompile.lref
+D:\DemoEkzamen\5 trueskills\1 Style\Style\obj\Debug\App.baml
+D:\DemoEkzamen\5 trueskills\1 Style\Style\obj\Debug\MainWindow.baml
+D:\DemoEkzamen\5 trueskills\1 Style\Style\obj\Debug\Style.g.resources
+D:\DemoEkzamen\5 trueskills\1 Style\Style\obj\Debug\Style.Properties.Resources.resources
+D:\DemoEkzamen\5 trueskills\1 Style\Style\obj\Debug\Style.csproj.GenerateResource.cache
+D:\DemoEkzamen\5 trueskills\1 Style\Style\obj\Debug\Style.csproj.CoreCompileInputs.cache
+D:\DemoEkzamen\5 trueskills\1 Style\Style\obj\Debug\Style.exe
+D:\DemoEkzamen\5 trueskills\1 Style\Style\obj\Debug\Style.pdb
